@@ -2,7 +2,7 @@
 - 👀 I’m interested in Angular and .Net Core to build Web Application
 - 🌱 I’m currently learning on Azure, Microservices and desgin patterns
 - 💞️ I’m looking to collaborate on challenging projects
-- 📫 How to reach me 20harish11@gmail.com
+- 📫 Reach me on 20harish11@gmail.com
 
 <!---
 Harishkumar-k/Harishkumar-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
